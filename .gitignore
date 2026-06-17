@@ -1,0 +1,26 @@
+# Runtime logs
+*.log
+logs/
+NEW_logs/
+
+# Recordings and generated media
+recordings/
+NEW_recordings/
+*.mp3
+*.wav
+*.ts
+*.m4s
+*.m3u8
+*.mp4
+
+# Temporary/generated working files
+tmp/
+NEW_tmp/
+*.txt
+
+# Local dependencies
+node_modules/
+NISAYON/node_modules/
+
+# Local HLS output
+NISAYON/hls/
